@@ -1,0 +1,289 @@
+MASTER KEYWORD TEMPLATES v3.0 – COMPLETE (REDDIT + RELOCATION + HOME BUYING)
+===========================================================================
+{place} = city | county | neighborhood | abbreviation | region | slang
+
+TIP: Keep {place} variants in a separate places file (counties, cities, neighborhoods, abbreviations).
+Use these templates to generate 50k–120k+ queries by combining templates × places.
+
+────────────────────────────────────────────────────────────────────────────
+A) CORE MOVING / RELOCATION
+────────────────────────────────────────────────────────────────────────────
+moving to {place}
+move to {place}
+moving into {place}
+relocating to {place}
+relocate to {place}
+planning to move to {place}
+considering moving to {place}
+thinking of moving to {place}
+moving to {place} soon
+moving to {place} next month
+should I move to {place}
+is moving to {place} worth it
+anyone moved to {place}
+any tips for moving to {place}
+moving to {place} advice
+moving to {place} checklist
+moving to {place} pros and cons
+moving to {place} from out of state
+moving to {place} from another state
+moving to california and choosing {place}
+best place to move in {place}
+
+────────────────────────────────────────────────────────────────────────────
+B) LIVING / LIFESTYLE / FIT
+────────────────────────────────────────────────────────────────────────────
+living in {place}
+anyone living in {place}
+what is it like living in {place}
+is {place} a good place to live
+is {place} a good area to live
+quality of life in {place}
+cost of living in {place}
+how expensive is {place}
+can I afford to live in {place}
+life in {place}
+daily life in {place}
+things to know before moving to {place}
+what do you wish you knew before moving to {place}
+{place} pros and cons
+{place} good for newcomers
+
+────────────────────────────────────────────────────────────────────────────
+C) LIFE STAGE / SITUATIONS (HIGH SIGNAL ON REDDIT)
+────────────────────────────────────────────────────────────────────────────
+moving to {place} with family
+moving to {place} with kids
+moving to {place} as a couple
+moving to {place} single
+moving to {place} with roommates
+moving to {place} with pets
+moving to {place} with a dog
+moving to {place} for school
+moving to {place} for college
+moving to {place} for internship
+moving to {place} for work
+job relocation to {place}
+moving to {place} with a job offer
+remote work living in {place}
+retiring in {place}
+moving to {place} on a budget
+moving to {place} with limited savings
+moving to {place} as a newcomer
+moving to {place} as an immigrant
+moving to {place} on visa
+moving to {place} as an international
+
+────────────────────────────────────────────────────────────────────────────
+D) RENTING (APARTMENTS / LEASE / LANDLORD)
+────────────────────────────────────────────────────────────────────────────
+renting in {place}
+apartments in {place}
+best areas to rent in {place}
+rent prices in {place}
+average rent in {place}
+rent vs buy in {place}
+should I rent or buy in {place}
+lease terms in {place}
+security deposit in {place}
+tenant rights in {place}
+landlord issues in {place}
+rent control in {place}
+roommates in {place}
+
+────────────────────────────────────────────────────────────────────────────
+E) BUYING A HOME / REAL ESTATE (HIGH INTENT)
+────────────────────────────────────────────────────────────────────────────
+buy a house in {place}
+buying a house in {place}
+buy home in {place}
+buy property in {place}
+house for sale in {place}
+homes for sale in {place}
+condos for sale in {place}
+townhomes in {place}
+new construction in {place}
+first time home buyer in {place}
+first-time homebuyer in {place}
+is it worth buying a house in {place}
+best time to buy in {place}
+is now a good time to buy in {place}
+real estate in {place}
+housing market in {place}
+home prices in {place}
+median home price in {place}
+{place} housing market forecast
+market cooling in {place}
+market crash in {place}
+overpriced homes in {place}
+bidding war in {place}
+
+────────────────────────────────────────────────────────────────────────────
+F) FINANCING / MORTGAGE / PRE-APPROVAL
+────────────────────────────────────────────────────────────────────────────
+mortgage in {place}
+mortgage rates in {place}
+best mortgage lender for {place}
+local lenders in {place}
+credit unions in {place} mortgage
+preapproval in {place}
+pre-approval in {place}
+how much house can I afford in {place}
+down payment in {place}
+closing costs in {place}
+FHA loan in {place}
+VA loan in {place}
+conventional loan in {place}
+jumbo loan in {place}
+points and rates in {place}
+rate buy down in {place}
+escrow in {place}
+property tax in {place}
+property taxes in {place}
+mello roos in {place}
+HOA fees in {place}
+home insurance in {place}
+hazard insurance in {place}
+
+────────────────────────────────────────────────────────────────────────────
+G) TRANSACTION / OFFER / NEGOTIATION / DUE DILIGENCE
+────────────────────────────────────────────────────────────────────────────
+making an offer in {place}
+offer strategy in {place}
+how to win a bidding war in {place}
+contingencies in {place}
+inspection contingency in {place}
+appraisal contingency in {place}
+home inspection in {place}
+what to look for buying in {place}
+red flags buying a home in {place}
+seller disclosures in {place}
+escrow timeline in {place}
+appraisal issues in {place}
+underwriting delays in {place}
+closing timeline in {place}
+cash offer in {place}
+rent back in {place}
+earnest money deposit in {place}
+
+────────────────────────────────────────────────────────────────────────────
+H) NEIGHBORHOODS / SAFETY / COMMUNITY
+────────────────────────────────────────────────────────────────────────────
+best neighborhoods in {place}
+best neighborhood in {place}
+safe neighborhoods in {place}
+affordable neighborhoods in {place}
+family friendly neighborhoods in {place}
+quiet neighborhoods in {place}
+walkable neighborhoods in {place}
+best area to live in {place}
+where should I live in {place}
+which area of {place} is best
+best area to buy a house in {place}
+best area to buy a home in {place}
+up and coming neighborhoods in {place}
+bad neighborhoods in {place}
+areas to avoid in {place}
+crime in {place}
+safety in {place}
+
+────────────────────────────────────────────────────────────────────────────
+I) SCHOOLS / KIDS / CHILDCARE
+────────────────────────────────────────────────────────────────────────────
+schools in {place}
+best schools in {place}
+school districts in {place}
+good school district in {place}
+public schools in {place}
+private schools in {place}
+childcare in {place}
+daycare in {place}
+family life in {place}
+
+────────────────────────────────────────────────────────────────────────────
+J) COMMUTE / TRANSPORT / PRACTICALITIES
+────────────────────────────────────────────────────────────────────────────
+commute from {place}
+commuting in {place}
+traffic in {place}
+public transit in {place}
+parking in {place}
+walkability in {place}
+bike friendly in {place}
+working in {place} living in {place}
+best commute neighborhoods in {place}
+internet providers in {place}
+utilities cost in {place}
+
+────────────────────────────────────────────────────────────────────────────
+K) RISKS / ENVIRONMENT / INSURANCE (CA-SPECIFIC)
+────────────────────────────────────────────────────────────────────────────
+wildfire risk in {place}
+fire insurance in {place}
+earthquake risk in {place}
+earthquake insurance in {place}
+flood risk in {place}
+flood insurance in {place}
+heat waves in {place}
+air quality in {place}
+water restrictions in {place}
+power outages in {place}
+
+────────────────────────────────────────────────────────────────────────────
+L) LAWS / TAXES / PERMITS / ADU
+────────────────────────────────────────────────────────────────────────────
+property tax rate in {place}
+supplemental property tax in {place}
+transfer tax in {place}
+short term rental rules in {place}
+zoning in {place}
+building permits in {place}
+ADU rules in {place}
+adding an ADU in {place}
+renting out a room in {place}
+
+────────────────────────────────────────────────────────────────────────────
+M) REDDIT-SPECIFIC PHRASES (BOOST RECALL)
+────────────────────────────────────────────────────────────────────────────
+moving to {place} reddit
+living in {place} reddit
+renting in {place} reddit
+buying a house in {place} reddit
+real estate in {place} reddit
+best neighborhoods in {place} reddit
+any advice for moving to {place}
+any recommendations for {place}
+help me decide {place}
+is {place} worth it reddit
+anyone have experience in {place}
+what would you do if you moved to {place}
+{place} honest opinions
+{place} reality check
+
+────────────────────────────────────────────────────────────────────────────
+N) COMPARISONS / VS / ALTERNATIVES
+────────────────────────────────────────────────────────────────────────────
+{place} vs {place}
+{place} vs bay area
+{place} vs los angeles
+{place} vs san diego
+{place} vs orange county
+moving from texas to {place}
+moving from florida to {place}
+moving from new york to {place}
+moving from washington to {place}
+moving from arizona to {place}
+california vs texas living in {place}
+
+────────────────────────────────────────────────────────────────────────────
+O) NEGATIVE / DOUBTS / REGRET (KEEP NEUTRAL)
+────────────────────────────────────────────────────────────────────────────
+regret moving to {place}
+thinking about leaving {place}
+why is {place} so expensive
+is {place} overrated
+is {place} really that bad
+what are the downsides of {place}
+problems with living in {place}
+is {place} getting worse
+should I avoid {place}

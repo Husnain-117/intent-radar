@@ -1,0 +1,1408 @@
+PLACES – CALIFORNIA (v2, FIXED CITY NAMES)
+=========================================
+Notes:
+- Use this as your {place} list for template expansion.
+- Counties: 58 (official). Cities: 483 municipalities (official, DOF).
+- v2 FIX: city names ending with '... City' are preserved correctly (e.g., Culver City, Daly City, Redwood City, National City).
+- Includes extra slang/abbreviations + a curated neighborhood starter set.
+
+# --- REGIONS / SLANG ---
+Bay Area
+CA
+Cali
+California
+Central Coast
+Central Valley
+Coachella Valley
+East Bay
+IE
+Inland Empire
+LA Westside
+Mid City
+Mid-City
+Nocal
+NorCal
+North Bay
+Northern California
+San Fernando Valley
+SF Bay Area
+Silicon Valley
+SoCal
+Socal
+South Bay
+South L.A.
+South LA
+Southern California
+The Bay
+The Valley
+Westside
+Wine Country
+
+# --- COUNTIES (OFFICIAL, 58) ---
+Alameda County
+Alpine County
+Amador County
+Butte County
+Calaveras County
+Colusa County
+Contra Costa County
+Del Norte County
+El Dorado County
+Fresno County
+Glenn County
+Humboldt County
+Imperial County
+Inyo County
+Kern County
+Kings County
+Lake County
+Lassen County
+Los Angeles County
+Madera County
+Marin County
+Mariposa County
+Mendocino County
+Merced County
+Modoc County
+Mono County
+Monterey County
+Napa County
+Nevada County
+Orange County
+Placer County
+Plumas County
+Riverside County
+Sacramento County
+San Benito County
+San Bernardino County
+San Diego County
+San Francisco County
+San Joaquin County
+San Luis Obispo County
+San Mateo County
+Santa Barbara County
+Santa Clara County
+Santa Cruz County
+Shasta County
+Sierra County
+Siskiyou County
+Solano County
+Sonoma County
+Stanislaus County
+Sutter County
+Tehama County
+Trinity County
+Tulare County
+Tuolumne County
+Ventura County
+Yolo County
+Yuba County
+
+# --- COUNTIES (GENERIC VARIANTS) ---
+Alameda Co
+Alameda Co.
+Alameda County
+Alpine Co
+Alpine Co.
+Alpine County
+Amador Co
+Amador Co.
+Amador County
+Butte Co
+Butte Co.
+Butte County
+Calaveras Co
+Calaveras Co.
+Calaveras County
+Colusa Co
+Colusa Co.
+Colusa County
+Contra Costa Co
+Contra Costa Co.
+Contra Costa County
+Del Norte Co
+Del Norte Co.
+Del Norte County
+El Dorado Co
+El Dorado Co.
+El Dorado County
+Fresno Co
+Fresno Co.
+Fresno County
+Glenn Co
+Glenn Co.
+Glenn County
+Humboldt Co
+Humboldt Co.
+Humboldt County
+Imperial Co
+Imperial Co.
+Imperial County
+Inyo Co
+Inyo Co.
+Inyo County
+Kern Co
+Kern Co.
+Kern County
+Kings Co
+Kings Co.
+Kings County
+Lake Co
+Lake Co.
+Lake County
+Lassen Co
+Lassen Co.
+Lassen County
+Los Angeles Co
+Los Angeles Co.
+Los Angeles County
+Madera Co
+Madera Co.
+Madera County
+Marin Co
+Marin Co.
+Marin County
+Mariposa Co
+Mariposa Co.
+Mariposa County
+Mendocino Co
+Mendocino Co.
+Mendocino County
+Merced Co
+Merced Co.
+Merced County
+Modoc Co
+Modoc Co.
+Modoc County
+Mono Co
+Mono Co.
+Mono County
+Monterey Co
+Monterey Co.
+Monterey County
+Napa Co
+Napa Co.
+Napa County
+Nevada Co
+Nevada Co.
+Nevada County
+Orange Co
+Orange Co.
+Orange County
+Placer Co
+Placer Co.
+Placer County
+Plumas Co
+Plumas Co.
+Plumas County
+Riverside Co
+Riverside Co.
+Riverside County
+Sacramento Co
+Sacramento Co.
+Sacramento County
+San Benito Co
+San Benito Co.
+San Benito County
+San Bernardino Co
+San Bernardino Co.
+San Bernardino County
+San Diego Co
+San Diego Co.
+San Diego County
+San Francisco Co
+San Francisco Co.
+San Francisco County
+San Joaquin Co
+San Joaquin Co.
+San Joaquin County
+San Luis Obispo Co
+San Luis Obispo Co.
+San Luis Obispo County
+San Mateo Co
+San Mateo Co.
+San Mateo County
+Santa Barbara Co
+Santa Barbara Co.
+Santa Barbara County
+Santa Clara Co
+Santa Clara Co.
+Santa Clara County
+Santa Cruz Co
+Santa Cruz Co.
+Santa Cruz County
+Shasta Co
+Shasta Co.
+Shasta County
+Sierra Co
+Sierra Co.
+Sierra County
+Siskiyou Co
+Siskiyou Co.
+Siskiyou County
+Solano Co
+Solano Co.
+Solano County
+Sonoma Co
+Sonoma Co.
+Sonoma County
+Stanislaus Co
+Stanislaus Co.
+Stanislaus County
+Sutter Co
+Sutter Co.
+Sutter County
+Tehama Co
+Tehama Co.
+Tehama County
+Trinity Co
+Trinity Co.
+Trinity County
+Tulare Co
+Tulare Co.
+Tulare County
+Tuolumne Co
+Tuolumne Co.
+Tuolumne County
+Ventura Co
+Ventura Co.
+Ventura County
+Yolo Co
+Yolo Co.
+Yolo County
+Yuba Co
+Yuba Co.
+Yuba County
+
+# --- COUNTIES (CURATED ABBREVIATIONS / POPULAR FOR REDDIT) ---
+Alameda Co
+Alameda County
+CCC
+Contra Costa Co
+Contra Costa County
+IE
+Inland Empire
+L.A. Co
+L.A. County
+LA Co
+LA County
+LAC
+Los Angeles County
+Napa Co
+Napa County
+O.C.
+OC
+OC CA
+Orange Co
+Orange County
+Peninsula
+Placer Co
+Placer County
+RivCo
+Riverside Co
+Riverside County
+S.B. County
+S.D. County
+S.F. County
+Sac County
+Sacramento County
+Sacto County
+San Berdoo
+San Bernardino Co
+San Bernardino County
+San Diego County
+San Francisco County
+San Mateo Co
+San Mateo County
+Santa Clara Co
+Santa Clara County
+SB County
+SCC
+SD Co
+SD County
+SF County
+Silicon Valley
+SMC
+Sonoma Co
+Sonoma County
+The Peninsula
+Ventura Co
+Ventura County
+
+# --- CITIES (OFFICIAL, 483) ---
+Los Angeles
+San Diego
+San Jose
+San Francisco
+Fresno
+Sacramento
+Long Beach
+Oakland
+Bakersfield
+Anaheim
+Stockton
+Riverside
+Irvine
+Santa Ana
+Chula Vista
+Fremont
+Santa Clarita
+San Bernardino
+Modesto
+Fontana
+Moreno Valley
+Oxnard
+Huntington Beach
+Glendale
+Ontario
+Elk Grove
+Santa Rosa
+Lancaster
+Rancho Cucamonga
+Oceanside
+Garden Grove
+Palmdale
+Hayward
+Salinas
+Sunnyvale
+Corona
+Roseville
+Pomona
+Escondido
+Visalia
+Torrance
+Fullerton
+Victorville
+Pasadena
+Orange
+Santa Clara
+Clovis
+Berkeley
+Simi Valley
+Concord
+Thousand Oaks
+Vallejo
+Fairfield
+Antioch
+Carlsbad
+Menifee
+Chico
+Richmond
+Temecula
+Santa Maria
+Downey
+Murrieta
+Costa Mesa
+West Covina
+San Buenaventura (Ventura) City
+El Monte
+Inglewood
+Burbank
+Jurupa Valley
+Rialto
+El Cajon
+San Mateo
+Vacaville
+Daly City
+Hesperia
+Vista
+Norwalk
+Tracy
+Merced
+San Marcos
+Chino
+Manteca
+Compton
+Redding
+Santa Monica
+South Gate
+Folsom
+Indio
+Hemet
+Carson
+Mission Viejo
+Westminster
+Whittier
+San Leandro
+Lake Forest
+Mountain View
+Santa Barbara
+Citrus Heights
+Livermore
+Hawthorne
+Rancho Cordova
+San Ramon
+Buena Park
+Newport Beach
+Alhambra
+Redwood City
+Milpitas
+Perris
+Lakewood
+Tustin
+Upland
+Alameda
+Napa
+Chino Hills
+Pleasanton
+Bellflower
+Pittsburg
+Apple Valley
+Dublin
+Lake Elsinore
+Redlands
+Rocklin
+Tulare
+Turlock
+Baldwin Park
+Yuba City
+Walnut Creek
+Eastvale
+Camarillo
+Palo Alto
+Redondo Beach
+Lodi
+Lynwood
+Union City
+Madera
+Yorba Linda
+Brentwood
+Davis
+South San Francisco
+Laguna Niguel
+Porterville
+Santa Cruz
+San Clemente
+Montebello
+Gilroy
+Encinitas
+Woodland
+Hanford
+La Habra
+La Mesa
+Pico Rivera
+Gardena
+San Rafael
+Cupertino
+Beaumont
+Santee
+Monterey Park
+Petaluma
+National City
+Highland
+Fountain Valley
+Arcadia
+West Sacramento
+San Jacinto
+Yucaipa
+Lincoln
+Placentia
+Diamond Bar
+Colton
+Huntington Park
+Delano
+Paramount
+Palm Desert
+Novato
+Cathedral City
+Glendora
+Watsonville
+Covina
+Rosemead
+Poway
+Aliso Viejo
+San Luis Obispo
+Cypress
+Ceres
+Azusa
+Los Banos
+Newark
+La Mirada
+Brea
+Cerritos
+Oakley
+Morgan Hill
+Rancho Santa Margarita
+El Centro
+Palm Springs
+Coachella
+Rohnert Park
+Hollister
+Lompoc
+Campbell
+Danville
+San Bruno
+Rancho Palos Verdes
+Stanton
+Culver City
+Calexico
+San Gabriel
+Monrovia
+La Quinta
+Lathrop
+Bell Gardens
+La Puente
+Montclair
+Claremont
+Pacifica
+Adelanto
+Wildomar
+Martinez
+Temple City
+San Juan Capistrano
+West Hollywood
+Moorpark
+San Dimas
+Manhattan Beach
+Pleasant Hill
+Los Gatos
+Bell
+Menlo Park
+Desert Hot Springs
+Goleta
+Dana Point
+Foster City
+La Verne
+Seaside
+Banning
+Beverly Hills
+Atwater
+Los Altos
+Santa Paula
+Burlingame
+San Pablo
+Saratoga
+El Paso de Robles
+Lawndale
+Laguna Hills
+Atascadero
+San Carlos
+East Palo Alto
+Suisun City
+Brawley
+Mountain House
+Ridgecrest
+Walnut
+Belmont
+Lemon Grove
+Lemoore
+Soledad
+Monterey
+Sanger
+Reedley
+Imperial Beach
+South Pasadena
+Wasco
+Hercules
+Benicia
+Eureka
+Galt
+Riverbank
+Dinuba
+Patterson
+El Cerrito
+Windsor
+Loma Linda
+Norco
+Lafayette
+Barstow
+Selma
+Maywood
+Seal Beach
+Twentynine Palms
+Duarte
+San Fernando
+Shafter
+Oakdale
+Millbrae
+Marina
+Imperial
+Calabasas
+Laguna Beach
+Coronado
+American Canyon
+Cudahy
+Yucca Valley
+Corcoran
+South Lake Tahoe
+Port Hueneme
+Greenfield
+Albany
+Lomita
+Dixon
+La Canada Flintridge
+Arvin
+Agoura Hills
+Oroville
+South El Monte
+Orinda
+Hermosa Beach
+Arcata
+Chowchilla
+Santa Fe Springs
+Pinole
+Arroyo Grande
+Coalinga
+Kerman
+Laguna Woods
+Rancho Mirage
+Fillmore
+El Segundo
+Truckee
+Moraga
+Clearlake
+Artesia
+Ukiah
+Ripon
+Blythe
+La Palma
+Pacific Grove
+Parlier
+Red Bluff
+Livingston
+King City
+McFarland
+Mill Valley
+Hawaiian Gardens
+Emeryville
+Grass Valley
+California City
+Avenal
+Auburn
+Kingsburg
+Palos Verdes Estates
+Solana Beach
+Grand Terrace
+Carpinteria
+Larkspur
+Lindsay
+Marysville
+Mendota
+San Anselmo
+Grover Beach
+Newman
+San Marino
+Susanville
+Fortuna
+Commerce
+Los Alamitos
+Scotts Valley
+Tehachapi
+Signal Hill
+Half Moon Bay
+Hillsborough
+Paradise
+Canyon Lake
+Calimesa
+Healdsburg
+Anderson
+Sierra Madre
+Piedmont
+Clayton
+Placerville
+Malibu
+Sonoma
+Morro Bay
+Farmersville
+Rio Vista
+Exeter
+Shasta Lake
+Corte Madera
+Orange Cove
+Capitola
+Live Oak
+Waterford
+Ione
+Tiburon
+Guadalupe
+Firebaugh
+Orland
+Cloverdale
+Los Altos Hills
+Rolling Hills Estates
+Gonzales
+Corning
+Winters
+Woodlake
+Hughson
+Westlake Village
+Yreka
+Pismo Beach
+Fowler
+Ojai
+Fairfax
+Sebastopol
+Gridley
+Cotati
+Escalon
+Fort Bragg
+Taft
+Mammoth Lakes
+Atherton
+Sausalito
+Huron
+Loomis
+Colusa
+Willows
+Calipatria
+Crescent City
+Gustine
+Solvang
+Villa Park
+Dos Palos
+Holtville
+Williams
+La Habra Heights
+St Helena
+Woodside
+Calistoga
+Sonora
+Buellton
+Lakeport
+Big Bear Lake
+Indian Wells
+Willits
+Jackson
+Needles
+Brisbane
+Portola Valley
+Wheatland
+Del Mar
+Bishop
+San Joaquin City
+Monte Sereno
+Angels City
+Avalon
+Nevada City
+Rio Dell
+Mount Shasta
+Carmel-by-the-Sea
+Weed
+Alturas
+Yountville
+Sutter Creek
+Ross
+Portola
+Westmorland
+San Juan Bautista
+Belvedere
+Colfax
+Biggs
+Hidden Hills
+Rolling Hills
+Dunsmuir
+Del Rey Oaks
+Irwindale
+Colma
+Ferndale
+Montague
+Blue Lake
+Plymouth
+Maricopa
+Bradbury
+Tulelake
+Dorris
+Isleton
+Loyalton
+Fort Jones
+Etna
+Point Arena
+Industry
+Tehama
+Sand City
+Trinidad
+Vernon
+Amador
+
+# --- CITIES (OPTIONAL VARIANT: '<CITY> City' FOR EXTRA RECALL) ---
+Adelanto City
+Agoura Hills City
+Alameda City
+Albany City
+Alhambra City
+Aliso Viejo City
+Alturas City
+Amador City
+American Canyon City
+Anaheim City
+Anderson City
+Antioch City
+Apple Valley City
+Arcadia City
+Arcata City
+Arroyo Grande City
+Artesia City
+Arvin City
+Atascadero City
+Atherton City
+Atwater City
+Auburn City
+Avalon City
+Avenal City
+Azusa City
+Bakersfield City
+Baldwin Park City
+Banning City
+Barstow City
+Beaumont City
+Bell City
+Bell Gardens City
+Bellflower City
+Belmont City
+Belvedere City
+Benicia City
+Berkeley City
+Beverly Hills City
+Big Bear Lake City
+Biggs City
+Bishop City
+Blue Lake City
+Blythe City
+Bradbury City
+Brawley City
+Brea City
+Brentwood City
+Brisbane City
+Buellton City
+Buena Park City
+Burbank City
+Burlingame City
+Calabasas City
+Calexico City
+Calimesa City
+Calipatria City
+Calistoga City
+Camarillo City
+Campbell City
+Canyon Lake City
+Capitola City
+Carlsbad City
+Carmel-by-the-Sea City
+Carpinteria City
+Carson City
+Ceres City
+Cerritos City
+Chico City
+Chino City
+Chino Hills City
+Chowchilla City
+Chula Vista City
+Citrus Heights City
+Claremont City
+Clayton City
+Clearlake City
+Cloverdale City
+Clovis City
+Coachella City
+Coalinga City
+Colfax City
+Colma City
+Colton City
+Colusa City
+Commerce City
+Compton City
+Concord City
+Corcoran City
+Corning City
+Corona City
+Coronado City
+Corte Madera City
+Costa Mesa City
+Cotati City
+Covina City
+Cudahy City
+Cupertino City
+Cypress City
+Dana Point City
+Danville City
+Davis City
+Del Mar City
+Del Rey Oaks City
+Delano City
+Desert Hot Springs City
+Diamond Bar City
+Dinuba City
+Dixon City
+Dorris City
+Dos Palos City
+Downey City
+Duarte City
+Dublin City
+Dunsmuir City
+East Palo Alto City
+Eastvale City
+El Cajon City
+El Centro City
+El Cerrito City
+El Monte City
+El Paso de Robles City
+El Segundo City
+Elk Grove City
+Emeryville City
+Encinitas City
+Escalon City
+Escondido City
+Etna City
+Eureka City
+Exeter City
+Fairfax City
+Fairfield City
+Farmersville City
+Ferndale City
+Fillmore City
+Firebaugh City
+Folsom City
+Fontana City
+Fort Bragg City
+Fort Jones City
+Fortuna City
+Fountain Valley City
+Fowler City
+Fremont City
+Fresno City
+Fullerton City
+Galt City
+Garden Grove City
+Gardena City
+Gilroy City
+Glendale City
+Glendora City
+Goleta City
+Gonzales City
+Grand Terrace City
+Grass Valley City
+Greenfield City
+Gridley City
+Grover Beach City
+Guadalupe City
+Gustine City
+Half Moon Bay City
+Hanford City
+Hawaiian Gardens City
+Hawthorne City
+Hayward City
+Healdsburg City
+Hemet City
+Hercules City
+Hermosa Beach City
+Hesperia City
+Hidden Hills City
+Highland City
+Hillsborough City
+Hollister City
+Holtville City
+Hughson City
+Huntington Beach City
+Huntington Park City
+Huron City
+Imperial Beach City
+Imperial City
+Indian Wells City
+Indio City
+Industry City
+Inglewood City
+Ione City
+Irvine City
+Irwindale City
+Isleton City
+Jackson City
+Jurupa Valley City
+Kerman City
+Kingsburg City
+La Canada Flintridge City
+La Habra City
+La Habra Heights City
+La Mesa City
+La Mirada City
+La Palma City
+La Puente City
+La Quinta City
+La Verne City
+Lafayette City
+Laguna Beach City
+Laguna Hills City
+Laguna Niguel City
+Laguna Woods City
+Lake Elsinore City
+Lake Forest City
+Lakeport City
+Lakewood City
+Lancaster City
+Larkspur City
+Lathrop City
+Lawndale City
+Lemon Grove City
+Lemoore City
+Lincoln City
+Lindsay City
+Live Oak City
+Livermore City
+Livingston City
+Lodi City
+Loma Linda City
+Lomita City
+Lompoc City
+Long Beach City
+Loomis City
+Los Alamitos City
+Los Altos City
+Los Altos Hills City
+Los Angeles City
+Los Banos City
+Los Gatos City
+Loyalton City
+Lynwood City
+Madera City
+Malibu City
+Mammoth Lakes City
+Manhattan Beach City
+Manteca City
+Maricopa City
+Marina City
+Martinez City
+Marysville City
+Maywood City
+McFarland City
+Mendota City
+Menifee City
+Menlo Park City
+Merced City
+Mill Valley City
+Millbrae City
+Milpitas City
+Mission Viejo City
+Modesto City
+Monrovia City
+Montague City
+Montclair City
+Monte Sereno City
+Montebello City
+Monterey City
+Monterey Park City
+Moorpark City
+Moraga City
+Moreno Valley City
+Morgan Hill City
+Morro Bay City
+Mount Shasta City
+Mountain House City
+Mountain View City
+Murrieta City
+Napa City
+Needles City
+Newark City
+Newman City
+Newport Beach City
+Norco City
+Norwalk City
+Novato City
+Oakdale City
+Oakland City
+Oakley City
+Oceanside City
+Ojai City
+Ontario City
+Orange City
+Orange Cove City
+Orinda City
+Orland City
+Oroville City
+Oxnard City
+Pacific Grove City
+Pacifica City
+Palm Desert City
+Palm Springs City
+Palmdale City
+Palo Alto City
+Palos Verdes Estates City
+Paradise City
+Paramount City
+Parlier City
+Pasadena City
+Patterson City
+Perris City
+Petaluma City
+Pico Rivera City
+Piedmont City
+Pinole City
+Pismo Beach City
+Pittsburg City
+Placentia City
+Placerville City
+Pleasant Hill City
+Pleasanton City
+Plymouth City
+Point Arena City
+Pomona City
+Port Hueneme City
+Porterville City
+Portola City
+Portola Valley City
+Poway City
+Rancho Cordova City
+Rancho Cucamonga City
+Rancho Mirage City
+Rancho Palos Verdes City
+Rancho Santa Margarita City
+Red Bluff City
+Redding City
+Redlands City
+Redondo Beach City
+Reedley City
+Rialto City
+Richmond City
+Ridgecrest City
+Rio Dell City
+Rio Vista City
+Ripon City
+Riverbank City
+Riverside City
+Rocklin City
+Rohnert Park City
+Rolling Hills City
+Rolling Hills Estates City
+Rosemead City
+Roseville City
+Ross City
+Sacramento City
+Salinas City
+San Anselmo City
+San Bernardino City
+San Bruno City
+San Carlos City
+San Clemente City
+San Diego City
+San Dimas City
+San Fernando City
+San Francisco City
+San Gabriel City
+San Jacinto City
+San Jose City
+San Juan Bautista City
+San Juan Capistrano City
+San Leandro City
+San Luis Obispo City
+San Marcos City
+San Marino City
+San Mateo City
+San Pablo City
+San Rafael City
+San Ramon City
+Sanger City
+Santa Ana City
+Santa Barbara City
+Santa Clara City
+Santa Clarita City
+Santa Cruz City
+Santa Fe Springs City
+Santa Maria City
+Santa Monica City
+Santa Paula City
+Santa Rosa City
+Santee City
+Saratoga City
+Sausalito City
+Scotts Valley City
+Seal Beach City
+Seaside City
+Sebastopol City
+Selma City
+Shafter City
+Shasta Lake City
+Sierra Madre City
+Signal Hill City
+Simi Valley City
+Solana Beach City
+Soledad City
+Solvang City
+Sonoma City
+Sonora City
+South El Monte City
+South Gate City
+South Lake Tahoe City
+South Pasadena City
+South San Francisco City
+St Helena City
+Stanton City
+Stockton City
+Sunnyvale City
+Susanville City
+Sutter Creek City
+Taft City
+Tehachapi City
+Tehama City
+Temecula City
+Thousand Oaks City
+Tiburon City
+Torrance City
+Tracy City
+Trinidad City
+Truckee City
+Tulare City
+Tulelake City
+Turlock City
+Tustin City
+Twentynine Palms City
+Ukiah City
+Upland City
+Vacaville City
+Vallejo City
+Vernon City
+Victorville City
+Villa Park City
+Visalia City
+Vista City
+Walnut City
+Walnut Creek City
+Wasco City
+Waterford City
+Watsonville City
+Weed City
+West Covina City
+West Hollywood City
+West Sacramento City
+Westlake Village City
+Westminster City
+Westmorland City
+Wheatland City
+Whittier City
+Wildomar City
+Williams City
+Willits City
+Willows City
+Windsor City
+Winters City
+Woodlake City
+Woodland City
+Woodside City
+Yorba Linda City
+Yountville City
+Yreka City
+Yucaipa City
+Yucca Valley City
+
+# --- CITIES (CURATED ABBREVIATIONS / SLANG) ---
+Beverly Hills
+BH
+DTLA
+Frisco
+L.A.
+LA
+LB
+Long Beach
+Los Angeles
+OAK
+Oakland
+PA
+Palo Alto
+S.D.
+S.F.
+S.J.
+Sac
+Sacramento
+Sacto
+San Diego
+San Francisco
+San Jose
+Santa Monica
+SD
+SF
+SJ
+SM
+
+# --- NEIGHBORHOODS (CURATED STARTER SET) ---
+Alameda
+Albany
+Bel Air
+Berkeley
+Bernal Heights
+Beverly Grove
+Beverly Hills
+BH
+Brentwood
+Burbank
+Burlingame
+Carlsbad
+Castro
+Century City
+Cheviot Hills
+Chula Vista
+Costa Mesa
+Culver City
+Cupertino
+Dana Point
+Del Mar
+Downtown LA
+Downtown Oakland
+Downtown SF
+DTLA
+Eagle Rock
+Echo Park
+Emeryville
+Encinitas
+Encino
+FiDi
+Financial District
+Gaslamp
+Glendale
+Hayes Valley
+HB
+Highland Park
+Hillcrest
+Hollywood
+Huntington Beach
+Irvine
+K-Town
+Koreatown
+Ktown
+La Jolla
+Laguna Beach
+Lake Merritt
+Little Italy
+Los Feliz
+Mar Vista
+Marina
+Menlo Park
+Mission Beach
+Mission District
+Mission Viejo
+Mountain View
+Newport Beach
+Nob Hill
+Noe Valley
+North Park
+OB
+Ocean Beach
+Pacific Beach
+Pacific Heights
+Palo Alto
+Pasadena
+PB
+Playa Vista
+Potrero Hill
+Redwood City
+Richmond District
+Rockridge
+Russian Hill
+San Clemente
+San Mateo
+Santa Clara
+Santa Monica
+Sherman Oaks
+Silver Lake
+SOMA
+SoMa
+South Park
+South Pasadena
+Studio City
+Sunnyvale
+Sunset District
+Tarzana
+Temescal
+The Mission
+Tustin
+Venice
+WeHo
+West Hollywood
+Westwood
+Woodland Hills

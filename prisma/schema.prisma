@@ -1,0 +1,80 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Post {
+  id              String     @id @default(uuid())
+  platform        Platform
+  externalId      String     @unique
+  postText        String?    @db.Text
+  sourceUrl       String
+  keywordMatched  String?
+  intentScore     Float?
+  matchedKeywords Json?
+  aiReason        String?    @db.Text
+  status          PostStatus @default(PENDING)
+  worker          Worker?    @relation(fields: [workerId], references: [id])
+  workerId        String?
+  generatedComment String?   @db.Text
+  fetchedAt       DateTime   @default(now())
+  reviewedAt      DateTime?
+  createdAt       DateTime   @default(now())
+
+  @@index([status])
+  @@index([intentScore(sort: Desc)])
+  @@index([platform])
+  @@index([createdAt(sort: Desc)])
+  @@map("posts")
+}
+
+model Worker {
+  id        String   @id @default(uuid())
+  name      String
+  email     String   @unique
+  posts     Post[]
+  createdAt DateTime @default(now())
+
+  @@map("workers")
+}
+
+model FetchLog {
+  id           String   @id @default(uuid())
+  platform     Platform
+  keyword      String
+  postsFetched Int      @default(0)
+  postsStored  Int      @default(0)
+  errorMessage String?
+  duration     Int?
+  createdAt    DateTime @default(now())
+
+  @@index([platform])
+  @@index([createdAt(sort: Desc)])
+  @@map("fetch_logs")
+}
+
+model SystemSetting {
+  key       String   @id
+  value     String   @db.Text
+  updatedAt DateTime @updatedAt
+
+  @@map("system_settings")
+}
+
+enum Platform {
+  QUORA
+  FACEBOOK
+  TWITTER
+  REDDIT
+}
+
+enum PostStatus {
+  PENDING
+  DONE
+  SKIPPED
+}
